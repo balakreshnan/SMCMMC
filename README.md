@@ -5,4 +5,4 @@ Small and Medium Size Manufacturing GPT's for productivity
 
 https://github.com/balakreshnan/kmmfggpts
 
-[![Architecture]([http://www.google.com.au/images/nav_logo7.png)](https://github.com/balakreshnan/SMCMMC/blob/main/smcmmc.jpg)
+![Architecture](https://github.com/balakreshnan/SMCMMC/blob/main/smcmmc.jpg 'Architecture')
