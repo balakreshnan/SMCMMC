@@ -223,6 +223,15 @@
         <mxCell id="fr_IFSp_E5TgLf7cTKiT-43" value="Endpoint API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="646.5" y="669" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fr_IFSp_E5TgLf7cTKiT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.818;entryY=1.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fr_IFSp_E5TgLf7cTKiT-36" target="fr_IFSp_E5TgLf7cTKiT-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="679" y="560" />
+              <mxPoint x="600" y="560" />
+              <mxPoint x="600" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
