@@ -44,7 +44,7 @@
           <mxGeometry x="290" y="448" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Ky0okiFIyZvp3Xf47Xzk-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="120" y="238" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="118" y="229" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="Ky0okiFIyZvp3Xf47Xzk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ky0okiFIyZvp3Xf47Xzk-11">
           <mxGeometry relative="1" as="geometry">
@@ -56,6 +56,33 @@
         </mxCell>
         <mxCell id="Ky0okiFIyZvp3Xf47Xzk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ky0okiFIyZvp3Xf47Xzk-9" target="Ky0okiFIyZvp3Xf47Xzk-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-20" value="Admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="208" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-21" value="Admin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="114" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-24" value="Web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-25" value="Cosmos DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="178" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-26" value="Storage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="493" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-27" value="Cog Svc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-28" value="AI Studio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="348" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-29" value="Azure OpenAI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ky0okiFIyZvp3Xf47Xzk-30" value="AI Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="361" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
